@@ -3,7 +3,7 @@
 Before you start:
 
 ```bash
-$ git clone https://github.com/csc-devops-s23/cloud-instances.git
+$ git clone hhttps://github.com/DhruvSadhu/cloud-instances.git
 $ cd cloud-instances
 ```
 
